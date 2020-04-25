@@ -1,0 +1,6 @@
+# Version tracking update
+ansible
+awscli
+boto
+botocore
+boto3
